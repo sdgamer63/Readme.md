@@ -14,7 +14,7 @@
 - 🔭 Building: **My personal portfolio** 
 - 🌱 Learning: **Node.js**, **Advanced Python**, **JavaScript**  
 - 🎮 Hobby: **Gaming** & **Anime**
-- 🎧 Now Playing: [![Spotify](https://spotify-readme-theta.vercel.app/api/spotify)](https://open.spotify.com/user/your_spotify_id)
+- 🎧 Now Playing: [![Spotify](https://spotify-readme-theta.vercel.app/api/spotify)](https://open.spotify.com/user/31p3rqehlmpusfslqfcbxiq27nv4)
 - 💬 Quote: *"The world isn't perfect. But it's there for us, trying the best it can." — Roy Mustang*
  
 ---
