@@ -36,7 +36,7 @@
  
 ---
  
-## 🔥 GitHub Streak (Fixed)
+## 🔥 GitHub Streak
  
  
 <p align="center">
@@ -64,13 +64,10 @@
 ## 🌸 Let's Connect
  
 <p align="center">
-  <a href="https://discord.com/users/your_id" target="_blank">
+  <a href="https://discord.com/users/923846374087348274" target="_blank">
     <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
   </a>
   <a href="https://twitter.com/your_handle" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
-  </a>
-  <a href="https://steamcommunity.com/id/your_id" target="_blank">
-    <img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" alt="Steam" />
   </a>
 </p>
